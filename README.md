@@ -13,6 +13,8 @@ This README is written as an incident report: what was built, what broke
 along the way, how each failure was actually reproduced and fixed with
 real measured evidence (not described or asserted), and what it costs.
 
+**[Executive Summary (PPTX)](docs/ImpactLedger_Executive_Summary.pptx)**
+
 ## Why this project exists
 
 This repo was built directly against a real Senior Data Engineer job
@@ -122,6 +124,3 @@ See `docs/ONBOARDING.md` for full setup and run instructions.
 ## Author
 
 Christian Kouadio Kouassi
-# impactledger
-# Impactledger_delivery
-# Impactledger_delivery
